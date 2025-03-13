@@ -1,0 +1,8 @@
+React.createElement(1, 2, 3) => Object
+    and here 1 -> type of html element
+             2 -> attributes Object
+             3 -> text Content / new react element (React Object)
+Rect.createElement is the part of React.development.js file
+
+React.render(what_to_render) ==> function
+-> it liest in the file React-dom.development.js file 
